@@ -1,2 +1,2 @@
-# Travel-Madura
-Travel Wisata Madura
+# Pariwisata-Madura
+Pariwisata Madura
