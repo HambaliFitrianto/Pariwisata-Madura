@@ -5,4 +5,16 @@
   > Pamekasan 
   > Sumenep
 - Requirement Analysis
+Untuk membuat website ini ada beberapa yang kami butuhkan, seperti :
+•	Halaman Utama + navbar
+Didalam halaman utama berisikan header dan navbar. Di navbarnya itu nanti akan ada beberapa  menu  yaitu :
+-	Beranda/Home
+-	Info Wisata
+-	Team/Profile
+-	About
+kami membutuhkan tag html dan atribut css dalam pembuatan webpagenya. 
+•	Info Wisata
+Didalam menu ini kami membuat file htmlyang berisikan  wisata-wisata yang ada di pulau Madura. Kami kelompokkan berdasarkan  wilayah kabupatennya. Didalam masing-masing kabupaten terdapat beberapa wisata yang disetai deskripsi wisata beserta fasilitas dan estimasi biaya yang akan dikeluarkan ketika berwisata di tempat tersebut. Kami juga menyertakan foto/gambar tentang wisata tersebut. Utuk membuat halaman info wisata kami membutuhkan tag html, css, dan javascript.
+
+
 - Design
