@@ -1,9 +1,25 @@
 - Objective
   Mengenalkan pariwisata yang ada di Pulau Madura yang tersebar di empat Kabupaten yaitu :
   > Bangkalan
+    - Bukit Jaddih
+    - Makam Saichona Moch Cholil
+    - Hutan Mangrove Labuhan
+    - Pantai Siring Kemuning
   > Sampang
-  > Pamekasan 
+    - Pantai Nepa
+    - Waduk Nepa
+    - Air Terjun Toroan
+    - Goa Lebar
+  > Pamekasan
+    - Api Tak Kunjung Padam
+    - Goa Blaban
+    - Pantai Jumiang
+    - Bukit Cinta
   > Sumenep
+    - Gili Labak
+    - Pantai Sembilan
+    - Masjid Agung Sumenep
+    - Bukit Tinggi Sumenep
 - Requirement Analysis
 Untuk membuat website ini ada beberapa yang kami butuhkan, seperti :
 •	Halaman Utama + navbar
