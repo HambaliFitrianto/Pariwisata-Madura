@@ -1,4 +1,7 @@
-- Objective
+                                                                            DEFINITION PROJECT
+
+Tema : Pengenalan Pariwisata Pulau Madura
+1. Objective
   Mengenalkan pariwisata yang ada di Pulau Madura yang tersebar di empat Kabupaten yaitu :
   > Bangkalan
     - Bukit Jaddih
@@ -20,17 +23,31 @@
     - Pantai Sembilan
     - Masjid Agung Sumenep
     - Bukit Tinggi Sumenep
-- Requirement Analysis
-Untuk membuat website ini ada beberapa yang kami butuhkan, seperti :
-•	Halaman Utama + navbar
-Didalam halaman utama berisikan header dan navbar. Di navbarnya itu nanti akan ada beberapa  menu  yaitu :
--	Beranda/Home
--	Info Wisata
--	Team/Profile
--	About
-kami membutuhkan tag html dan atribut css dalam pembuatan webpagenya. 
-•	Info Wisata
-Didalam menu ini kami membuat file htmlyang berisikan  wisata-wisata yang ada di pulau Madura. Kami kelompokkan berdasarkan  wilayah kabupatennya. Didalam masing-masing kabupaten terdapat beberapa wisata yang disetai deskripsi wisata beserta fasilitas dan estimasi biaya yang akan dikeluarkan ketika berwisata di tempat tersebut. Kami juga menyertakan foto/gambar tentang wisata tersebut. Utuk membuat halaman info wisata kami membutuhkan tag html, css, dan javascript.
+    
+2. Requirement Analysis
+  Untuk membuat website ini ada beberapa yang kami butuhkan, seperti :
+  > Halaman Utama + navbar
+    Didalam halaman utama berisikan header dan navbar. Di navbarnya itu nanti akan ada beberapa  menu  yaitu :
+      -	Beranda/Home
+      -	Info Wisata
+      -	Team/Profile
+      -	About
+    kami membutuhkan tag html dan atribut css dalam pembuatan webpagenya. 
+  > Info Wisata
+    Didalam menu ini kami membuat file htmlyang berisikan  wisata-wisata yang ada di pulau Madura. Kami kelompokkan berdasarkan  wilayah kabupatennya. Didalam masing-masing kabupaten terdapat beberapa wisata yang disetai deskripsi wisata beserta fasilitas dan estimasi biaya yang akan dikeluarkan ketika berwisata di tempat tersebut. Kami juga menyertakan foto/gambar tentang wisata tersebut. Utuk membuat halaman info wisata kami membutuhkan tag html, css, dan javascript.
+  > Team/Profile
+    Halaman ini akan memuat informasi profile dari masing-masing anggota tim kami, didalamnya kami isikan foto beserta data yang berkaitan dengan anggota. Untuk membuatnya kami membutuhkan tag html dan css.
+  > About
+    Pada halam ini kami akan buat ketika menu About pada navbar diklik, yang terjadi adalah halaman akan menyecroll kebawah ke halaman yang memuat deskripsi dan penjelasan dari website kami. Untuk membuatnya kami membutuhkan tag html dan css.
 
+3. Design
+  Untuk desain komputasinya terdapat pada menu  Definition yang mana kami masukkan sebuah menu untuk melakukan searching berdasarkan fasilitas yang ada pada masing-masing wisata. 
+  Pilihan fasilitas yang tersedia antara lain :
+    -	Toilet
+    -	Tempat Ibadah
+    -	Tempat Bermain
+    -	Penginapan
+    -	Tempat Parkir
+    -	Tempat  Makan
+  Kami berencana menggunakan form  input bertype checkbox untuk melakukan searching dan sebuah tombol select untuk melakukan searchingnya. Nantinya ketika list pilihan fasilitas yang diingkan di ceklist/checked ketika diklik tombol select, maka akan menampilkan berbagai wisata yang memiliki fasilitas yang diinginkan oleh user  Untuk membuat syntax searching kami menggunakan bahasa pemrograman  JavaScript.
 
-- Design
