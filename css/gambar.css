@@ -5,7 +5,7 @@ div.gallery {
   border: 20px solid blue;
   float: left;
   width: 280px;
-  border-image: url(../img/awal/bingkai.jpg) 30 round;
+  border-image: url(../img/landingpage/bingkai.jpg) 30 round;
 }
 div.gallery img {
   width: 100%;
