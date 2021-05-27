@@ -8,7 +8,7 @@ h1{
     background-color: rgba(252, 252, 252, 0.5);
 }
 body{
-    background-image: url(background.jpg);
+    background-image: url(../img/profile/background.jpg);
     background-size: cover;
     font-family: comic sans ms;
 }
