@@ -14,7 +14,8 @@ data = [
     {
         nama: "pantai_siring",
         fasilitas: ["toilet", "ibadah", "parkir","resto"],
-    },  {
+    },  
+    {
         nama: 'pantai_rongkang',
         fasilitas: ['toilet', 'ibadah', 'parkir', 'resto'],
     },
