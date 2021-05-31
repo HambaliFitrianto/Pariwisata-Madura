@@ -15,7 +15,31 @@ data = [
         nama: "bukit_Tinggi",
         fasilitas: ["toilet", "parkir", "resto"],
     },
-];
+    {
+        nama: 'daramista',
+        fasilitas: ['toilet', 'parkir', 'resto', 'ibadah'],
+    },
+    {
+        nama: 'gili_genting',
+        fasilitas: ['toilet', 'penginapan', 'resto'],
+    },
+    {
+        nama: 'gili_iyang',
+        fasilitas: ['penginapan', 'resto', 'main'],
+    },
+    {
+        nama: 'bukit_kapur',
+        fasilitas: ['toilet', 'parkir', 'resto'],
+    },
+    {
+        nama: 'keraton_sumenep',
+        fasilitas: ['toilet'],
+    },
+    {
+        nama: 'pantai_lombang',
+        fasilitas: ['toilet', 'parkir', 'resto', 'ibadah'],
+    },
+  ];
 
 function cari() {
     var facilities = document.getElementsByName("facilities");
