@@ -39,30 +39,6 @@ data = [
         nama: 'museum_cakraningrat',
         fasilitas: ['toilet', 'ibadah', 'parkir'],
     },
-    {
-        nama: 'pantai_rongkang',
-        fasilitas: ['toilet', 'ibadah', 'parkir', 'resto'],
-    },
-    {
-        nama: 'gunung_geger',
-        fasilitas: ['toilet', 'parkir', 'resto'],
-    },
-    {
-        nama: 'taman_paseban',
-        fasilitas: ['toilet', 'ibadah', 'parkir'],
-    },
-    {
-        nama: 'air_terjun_kokop',
-        fasilitas: ['parkir'],
-    },
-    {
-        nama: 'mercusuar_sembilangan_bangkalan',
-        fasilitas: ['toilet', 'ibadah', 'parkir', 'resto'],
-    },
-    {
-        nama: 'museum_cakraningrat',
-        fasilitas: ['toilet', 'ibadah', 'parkir'],
-    },
   ];
 
 function cari() {
