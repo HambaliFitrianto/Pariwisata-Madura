@@ -15,7 +15,31 @@ data = [
         nama: "goa_Lebar",
         fasilitas: ["toilet", "parkir", "resto","ibadah"],
     },
-];
+    {
+        nama: 'pantai_camplong',
+        fasilitas: ['toilet', 'ibadah', 'main', 'penginapan', 'parkir', 'resto'],
+    },
+    {
+        nama: 'pulau_mandangin',
+        fasilitas: ['toilet', 'parkir', 'resto', 'ibadah'],
+    },
+    {
+        nama: 'pantai_lon_malang',
+        fasilitas: ['toilet', 'main', 'resto', 'parkir'],
+    },
+    {
+        nama: 'waduk_klampis',
+        fasilitas: ['toilet', 'parkir', 'resto', 'ibadah', 'main'],
+    },
+    {
+        nama: 'bukit_masegit',
+        fasilitas: ['toilet', 'parkir', 'resto'],
+    },
+    {
+        nama: 'masjid_madegan',
+        fasilitas: ['toilet', 'parkir', 'resto', 'ibadah'],
+    },
+  ];
 
 function cari() {
     var facilities = document.getElementsByName("facilities");
