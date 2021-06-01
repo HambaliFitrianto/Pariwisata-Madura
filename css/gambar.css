@@ -3,7 +3,7 @@ div.gallery {
   margin-top: 50px;
   margin-left: 12px;
   border: 20px solid blue;
-  float: left;
+  display: inline-block;
   width: 280px;
   border-image: url(../img/landingpage/bingkai.jpg) 30 round;
 }
@@ -18,4 +18,11 @@ div.nama {
 }
 .gambar_akhir {
   margin-left: 330px;
+}
+
+#responsive
+@media screen and (max-width: 991.98px) {
+  div.gallery {
+    margin-left: 17%;
+  }
 }
