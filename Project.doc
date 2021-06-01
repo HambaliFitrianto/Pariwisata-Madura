@@ -4,40 +4,64 @@ Tema : Pengenalan Pariwisata Pulau Madura
 1. Objective
   Mengenalkan pariwisata yang ada di Pulau Madura yang tersebar di empat Kabupaten yaitu :
   > Bangkalan
-    - Bukit Jaddih
-    - Makam Saichona Moch Cholil
-    - Hutan Mangrove Labuhan
-    - Pantai Siring Kemuning
+    1.  Bukit Jaddih
+    2.  Makam Saichona Moch Cholil
+    3.  Hutan Mangrove Labuhan
+    4.  Pantai Siring Kemuning
+    5.  Pantai Rongkang
+    6.  Gunung Geger
+    7.  Taman Paseban Bangkalan
+    8.  Air Terjun Kokop
+    9.  Mercusuar Sembilangan
+    10. Museum Cakraningrat
   > Sampang
-    - Pantai Nepa
-    - Waduk Nepa
-    - Air Terjun Toroan
-    - Goa Lebar
+    1.  Pantai Nepa
+    2.  Waduk Nepa
+    3.  Air Terjun Toroan
+    4.  Goa Lebar
+    5.  Pantai Camplong
+    6.  Pulau Mandangin
+    7.  Pantai Lon Malang
+    8.  Waduk Klampis
+    9.  Bukit Magesit
+    10. Masjid Madegan
   > Pamekasan
-    - Api Tak Kunjung Padam
-    - Goa Blaban
-    - Pantai Jumiang
-    - Bukit Cinta
+    1.  Api Tak Kunjung Padam
+    2.  Goa Blaban
+    3.  Pantai Jumiang
+    4.  Bukit Cinta
+    5.  Pantai Talang Siring
+    6.  Bukit Brukoh
+    7.  Puncak Ratu
+    8.  Pantai Mangrove Lembung
+    9.  Vihara Avalokitesvara
+    10. Pantai Batu Kerbuy
   > Sumenep
-    - Gili Labak
-    - Pantai Sembilan
-    - Masjid Agung Sumenep
-    - Bukit Tinggi Sumenep
+    1.  Gili Labak
+    2.  Pantai Sembilan
+    3.  Masjid Agung Sumenep
+    4.  Bukit Tinggi Sumenep
+    5.  Bukit Tinggi Daramista
+    6.  Pulau Gili Genting
+    7.  Pulau Gili Iyang
+    8.  Bukit Kapur
+    9.  Istana Keraton Sumenep
+    10. Pantai Lombang
     
 2. Requirement Analysis
   Untuk membuat website ini ada beberapa yang kami butuhkan, seperti :
   > Halaman Utama + navbar
     Didalam halaman utama berisikan header dan navbar. Di navbarnya itu nanti akan ada beberapa  menu  yaitu :
       -	Beranda/Home
-      -	Info Wisata
+      -	Destination
       -	Team/Profile
-      -	About
+      -	Contact
     kami membutuhkan tag html dan atribut css dalam pembuatan webpagenya. 
-  > Info Wisata
+  > Destination
     Didalam menu ini kami membuat file htmlyang berisikan  wisata-wisata yang ada di pulau Madura. Kami kelompokkan berdasarkan  wilayah kabupatennya. Didalam masing-masing kabupaten terdapat beberapa wisata yang disetai deskripsi wisata beserta fasilitas dan estimasi biaya yang akan dikeluarkan ketika berwisata di tempat tersebut. Kami juga menyertakan foto/gambar tentang wisata tersebut. Utuk membuat halaman info wisata kami membutuhkan tag html, css, dan javascript.
   > Team/Profile
     Halaman ini akan memuat informasi profile dari masing-masing anggota tim kami, didalamnya kami isikan foto beserta data yang berkaitan dengan anggota. Untuk membuatnya kami membutuhkan tag html dan css.
-  > About
+  > Contact
     Pada halam ini kami akan buat ketika menu About pada navbar diklik, yang terjadi adalah halaman akan menyecroll kebawah ke halaman yang memuat deskripsi dan penjelasan dari website kami. Untuk membuatnya kami membutuhkan tag html dan css.
 
 3. Design
