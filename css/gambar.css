@@ -20,9 +20,11 @@ div.nama {
   margin-left: 330px;
 }
 
-#responsive
 @media screen and (max-width: 991.98px) {
   div.gallery {
     margin-left: 17%;
   }
+  .gambar_akhir {
+  margin-left: -1%;
+}
 }
