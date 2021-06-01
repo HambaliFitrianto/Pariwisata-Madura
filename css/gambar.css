@@ -3,7 +3,7 @@ div.gallery {
   margin-top: 50px;
   margin-left: 12px;
   border: 20px solid blue;
-  display: inline-block;
+  float: left;
   width: 280px;
   border-image: url(../img/landingpage/bingkai.jpg) 30 round;
 }
