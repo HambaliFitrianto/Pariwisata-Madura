@@ -54,15 +54,19 @@ function cari() {
     // cari data
     for (var i = 0; i < data.length; i++) {
         found = false;
+        counter=0
         for (var j = 0; j < key.length; j++) {
             for (var k = 0; k < data[i]["fasilitas"].length; k++) {
                 if (key[j] == data[i]["fasilitas"][k]) {
                     found = true;
+                    if (found) {
+                        counter+=1
+                    }   
                 }
             }
         }
         // jika ketemu
-        if (found) {
+        if (counter==key.length) {
             document.getElementById(data[i]["nama"]).style.display = "block";
         } else {
             document.getElementById(data[i]["nama"]).style.display = "none";
