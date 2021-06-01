@@ -5,7 +5,6 @@
 	margin-bottom: 20px;
 	color: black;
 	width: 100%;
-	line-height: 5-px;
 }
 .wrapper fieldset legend {
     text-align: center;
@@ -40,4 +39,18 @@
 
 .wrapper fieldset ul li .btn:hover {
     background: #3f72af;
+}
+
+#bagian responsive
+@media screen and (max-width: 991.98px) {
+	.wrapper fieldset ul li .btn {
+		margin-left: 150px;
+	}
+	.wrapper fieldset {
+		font-family: 'comic sans ms';
+		font-size: 14px;
+	}
+	.wrapper fieldset legend {
+		font-size: 22px;
+	}
 }
