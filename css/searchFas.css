@@ -41,7 +41,7 @@
     background: #3f72af;
 }
 
-#bagian responsive
+/*responsive  */
 @media screen and (max-width: 991.98px) {
 	.wrapper fieldset ul li .btn {
 		margin-left: 150px;
